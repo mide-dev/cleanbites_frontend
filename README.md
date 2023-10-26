@@ -15,7 +15,7 @@ According to the UK Food Standards Agency (FSA), there are nearly 2.4 million ca
 
 3. **Google Places Detail Enrichment:** I've enriched each place by adding data from Google Places API.
 
-4. **Typescript, React, Python, Django, PostgreSQL:** Clean Bites is built using Typescript and React for the frontend, Python and Django for the backend, and PostgreSQL for database.
+4. **Responsiveness:** The App is Fully responsive accross all devices
 
 
 ## Work in Progress
