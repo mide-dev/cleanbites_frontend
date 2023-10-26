@@ -5,7 +5,7 @@
 According to the UK Food Standards Agency (FSA), there are nearly 2.4 million cases of food poisoning in the UK each year. Clean Bites is a web application designed to provide users with reliable restaurant recommendations while prioritizing food safety and hygiene..
 
 
-![cleanbites screenshot](./screenshot (2))
+![cleanbites screenshot](Screenshot (2).png)
 
 ## Features
 
